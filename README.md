@@ -9,4 +9,4 @@ Spring Boot application: A platform where individuals can practice gratitude dai
 * Share/view other's posts
 
 # License
-GNU General Public License v3
+https://github.com/wambuidee/Positive-Vibes-Liftoff-Demo-Project/blob/master/LICENSE
